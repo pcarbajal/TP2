@@ -3,6 +3,7 @@
 
 #include "Nodo.h"
 
+//algo
 /*
  * Una Lista es una colección dinámica de elementos dispuestos en una secuencia.
  *
