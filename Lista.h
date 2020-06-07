@@ -4,7 +4,7 @@
 #include "Nodo.h"
 
 /*
- * Uaaana Lista es una colección dinámica de elementos dispuestos en una secuencia.
+ * algoUaaana Lista es una colección dinámica de elementos dispuestos en una secuencia.
  *
  * Define operaciones para agregar, remover, acceder y cambiar elementos
  * en cualquier posición.
